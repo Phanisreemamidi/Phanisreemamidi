@@ -1,0 +1,4 @@
+l='aditya degree college'
+print(l)
+l=l[1:-1]
+print(l)
