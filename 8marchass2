@@ -1,0 +1,4 @@
+s='hello guys'
+l=' good morning'
+c=s+l
+print(c)
